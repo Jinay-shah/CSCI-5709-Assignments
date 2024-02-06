@@ -28,7 +28,7 @@ const PortfolioCard = ({ title, description, link }) => {
 const SearchPage = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredResults, setFilteredResults] = useState([]);
-  const [selectedProfile, setSelectedProfile] = useState(null);
+  const [selectedProfile] = useState(null);
   const [filters, setFilters] = useState({
     department: '',
     skills: '',

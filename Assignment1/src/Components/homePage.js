@@ -31,13 +31,13 @@ const App = () => {
       </div>
 
         <nav style={{ flexGrow: 1, textAlign: 'center' }}>
-          <a href="#" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
+          <a href="/" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
             Products
           </a>
-          <a href="#" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
+          <a href="/" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
             Templates
           </a>
-          <a href="#" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
+          <a href="/" style={{ color: 'white', margin: '0 10px', textDecoration: 'none' }}>
             Resources
           </a>
         </nav>
