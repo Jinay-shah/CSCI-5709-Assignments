@@ -178,7 +178,7 @@ const handleFilterChange = (filterType, value) => {
           <h2>Profile: {selectedProfile}</h2>
         </div>
       )}
-        <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap',  }}>
+      <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap',  }}>
         {portfolios.map((portfolio) => (
           <PortfolioCard key={portfolio.id} title={portfolio.title} description={portfolio.description} link={portfolio.link} />
         ))}
