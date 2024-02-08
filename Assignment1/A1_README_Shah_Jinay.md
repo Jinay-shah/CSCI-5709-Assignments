@@ -9,7 +9,7 @@
 
 ## Links
 - Assignment 1 Application deployed on Netlify URL: [https://jinay-shah-assignment-1.netlify.app/](https://jinay-shah-assignment-1.netlify.app/)
-
+- Assignment 1 Application code on GitLab URL : [https://git.cs.dal.ca/jinays/csci-5709-assignments/-/tree/main/Assignment1?ref_type=heads](https://git.cs.dal.ca/jinays/csci-5709-assignments/-/tree/main/Assignment1?ref_type=heads)
 ## Testing
 
     For the testing of the assignment, I started the webapp in my local machine then when everything was working fine, I tested it on the browser while deploying it on Netlify.
